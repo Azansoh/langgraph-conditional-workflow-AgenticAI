@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Environment Variables (Secrets / API Keys)
+.env
+
+# Python Bytecode / Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit / Local artifacts (if generated)
+.streamlit/
